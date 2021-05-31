@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>459439547.35714698</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionColor</key>
+						<string>Teal</string>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC7sAwAAKwAAAAEA
+						AADkAwAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNTgw
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYTt9CntcY29sb3J0
+						Ymw7XHJlZDI1NVxncmVlbjI1NVxi
+						bHVlMjU1O1xyZWQwXGdyZWVuMFxi
+						bHVlMDt9CntcKlxleHBhbmRlZGNv
+						bG9ydGJsOztcY3NzcmdiXGMwXGMw
+						XGMwXGM4NDcwNlxjbmFtZSBjb250
+						cm9sVGV4dENvbG9yO30KXHBhcmRc
+						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
+						eDIyNDBcdHgyODAwXHR4MzM2MFx0
+						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
+						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
+						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
+						ZW5mYWN0b3IwCgpcZjBcZnMyNiBc
+						Y2YyIENyZWF0ZWQgYnkgTWFyYyBL
+						aXZpbmllbWlcClR3aXR0ZXI6IEBN
+						YXJjS2l2aW5pZW1pXApcCkxhc3Qg
+						VXBkYXRlZDogTWF5IDMxLCAyMDIx
+						XApcClRoaXMgbWFjcm8gY3JlYXRl
+						cyBhIG5ldyBPbW5pZm9jdXMgcHJv
+						amVjdCwgc2V0cyB1cCBhIHByb2pl
+						Y3QgZm9sZGVyIGZvciB0aGUgcHJv
+						amVjdCBpbiBhIHNwZWNpZmllZCBm
+						aWxlIHBhdGggbG9jYXRpb24sIGFu
+						ZCBjZWF0ZXMgYSBEcmFmdHMgbm90
+						ZSBmb3IgdGhlIHByb2plY3QuIFRo
+						ZSBub3RlIG9mIHRoZSBPbW5pZm9j
+						dXMgcHJvamVjdCBjb250YWlucyBh
+						IGxpbmsgdG8gbmF2aWdhdGUgdG8g
+						Ym90aCB0aGUgRHJhZnRzIG5vdGUg
+						YW5kIHRoZSBwcm9qZWN0IGZvbGRl
+						ci4gVGhlIGJvZHkgb2YgdGhlIERy
+						YWZ0cyBub3RlIGNvbnRhaW5zIGEg
+						bGluayB0byBib3RoIHRoZSBPbW5p
+						Zm9jdXMgcHJvamVjdCBhbmQgdGhl
+						IERyYWZ0cyBmb2xkZXIuIE9uIGNv
+						bXBsZXRpb24sIHRoZSBPbW5pZm9j
+						dXMgd2luZG93IGlzIG9wZW4gdG8g
+						dGhlIFByb2plY3RzIHBlcnNwZWN0
+						aXZlIHdpdGggdGhlIG5ldyBwcm9q
+						ZWN0IHNlbGVjdGVkIHNvIHRoYXQg
+						bmV4dCBzdGVwcyAoZS5nLiwgYWRk
+						aW5nIHRhc2tzKSBjYW4gYmUgZG9u
+						ZSBpbW1lZGlhdGVseS59AQAAACMA
+						AAABAAAABwAAAFRYVC5ydGYQAAAA
+						dzG1YLYBAAAAAAAAAAAAAA==
+						</data>
+						<key>Title</key>
+						<string>New Project Creation Workflow</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Yellow</string>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC7xAQAAKwAAAAEA
+						AADpAQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNTgw
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYTt9CntcY29sb3J0
+						Ymw7XHJlZDI1NVxncmVlbjI1NVxi
+						bHVlMjU1O1xyZWQwXGdyZWVuMFxi
+						bHVlMDt9CntcKlxleHBhbmRlZGNv
+						bG9ydGJsOztcY3NzcmdiXGMwXGMw
+						XGMwXGM4NDcwNlxjbmFtZSBjb250
+						cm9sVGV4dENvbG9yO30KXHBhcmRc
+						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
+						eDIyNDBcdHgyODAwXHR4MzM2MFx0
+						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
+						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
+						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
+						ZW5mYWN0b3IwCgpcZjBcZnMyNiBc
+						Y2YyIFRoZSBmaXJzdCBzZWN0aW9u
+						IHNldHMgdXAgdGhlIHByb2plY3Qg
+						bmFtZSBhbmQgZm9sZGVyIFVSTCB2
+						YXJpYWJsZXMgdG8gYmUgcGFzc2Vk
+						IHRvIEZpbmRlciwgbW5pZm9jdXMs
+						IGFuZCBEcmFmdHN9AQAAACMAAAAB
+						AAAABwAAAFRYVC5ydGYQAAAAfTC1
+						YLYBAAAAAAAAAAAAAA==
+						</data>
+						<key>Title</key>
+						<string>Set Initial Variables</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Yellow</string>
+						<key>Buttons</key>
+						<array>
+							<dict>
+								<key>Button</key>
+								<string>OK</string>
+							</dict>
+							<dict>
+								<key>Button</key>
+								<string>Cancel</string>
+								<key>Cancel</key>
+								<true/>
+							</dict>
+						</array>
+						<key>MacroActionType</key>
+						<string>PromptForUserInput</string>
+						<key>Prompt</key>
+						<string>Please enter the name for the new project: </string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>Title</key>
+						<string>Project Name:</string>
+						<key>Variables</key>
+						<array>
+							<dict>
+								<key>Default</key>
+								<string></string>
+								<key>Variable</key>
+								<string>NewOFProjName</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Yellow</string>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC59AgAAKwAAAAEA
+						AAB1AgAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNTgw
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYTt9CntcY29sb3J0
+						Ymw7XHJlZDI1NVxncmVlbjI1NVxi
+						bHVlMjU1O1xyZWQwXGdyZWVuMFxi
+						bHVlMDt9CntcKlxleHBhbmRlZGNv
+						bG9ydGJsOztcY3NzcmdiXGMwXGMw
+						XGMwXGM4NDcwNlxjbmFtZSBjb250
+						cm9sVGV4dENvbG9yO30KXHBhcmRc
+						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
+						eDIyNDBcdHgyODAwXHR4MzM2MFx0
+						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
+						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
+						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
+						ZW5mYWN0b3IwCgpcZjBcZnMyNiBc
+						Y2YyIFRoZSBuZXh0IHRocmVlIGFj
+						dGlvbnMgdGFrZSB0aGUgcHJvanVl
+						Y3QgbmFtZSBhbmQgcmV0dXJuIGEg
+						Zm9ybWF0dGVkIGZpbGUgbGluayB0
+						aGF0IGlzIGNsaWNrYWJsZS4gVGhl
+						IGZpcnN0IGZpbmRzIHNwYWNlcyAo
+						dGhlIHNlYXJjaCBmb3IgbGluZSBj
+						b250YWlucyBvbmUgc3BhY2UpIGFu
+						ZCByZXBsYWNlcyB3aXRoICUyMC4g
+						VGhlIHNlY29uZCBhZGRzIHRoZSBm
+						aW5hbCBuZWVkZWQgZm9yd2FyZCBz
+						bGFzaC4gVGhlIHRoaXJkIGFkZHMg
+						dGhlIH0BAAAAIwAAAAEAAAAHAAAA
+						VFhULnJ0ZhAAAAAqMrVgtgEAAAAA
+						AAAAAAAA
+						</data>
+						<key>Title</key>
+						<string>Modify text to a clickable file link</string>
+					</dict>
+					<dict>
+						<key>Action</key>
+						<string>IgnoreCaseString</string>
+						<key>ActionColor</key>
+						<string>Yellow</string>
+						<key>Destination</key>
+						<string>Variable</string>
+						<key>DestinationVariable</key>
+						<string>NewProjectFolderNameURL</string>
+						<key>MacroActionType</key>
+						<string>SearchReplace</string>
+						<key>Replace</key>
+						<string>%20</string>
+						<key>Search</key>
+						<string> </string>
+						<key>Source</key>
+						<string>Variable</string>
+						<key>Variable</key>
+						<string>NewOFProjName</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Yellow</string>
+						<key>MacroActionType</key>
+						<string>SetVariableToText</string>
+						<key>Text</key>
+						<string>/</string>
+						<key>Variable</key>
+						<string>NewProjectFolderNameURL</string>
+						<key>Where</key>
+						<string>Append</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Yellow</string>
+						<key>MacroActionType</key>
+						<string>SetVariableToText</string>
+						<key>Text</key>
+						<string>file:///   [END USER ADD APPROPRIATE POSIX FILE PATH HERE]</string>
+						<key>Variable</key>
+						<string>NewProjectFolderNameURL</string>
+						<key>Where</key>
+						<string>Prepend</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Green</string>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC5aAgAAKwAAAAEA
+						AABSAgAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNTgw
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYTt9CntcY29sb3J0
+						Ymw7XHJlZDI1NVxncmVlbjI1NVxi
+						bHVlMjU1O1xyZWQwXGdyZWVuMFxi
+						bHVlMDt9CntcKlxleHBhbmRlZGNv
+						bG9ydGJsOztcY3NzcmdiXGMwXGMw
+						XGMwXGM4NDcwNlxjbmFtZSBjb250
+						cm9sVGV4dENvbG9yO30KXHBhcmRc
+						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
+						eDIyNDBcdHgyODAwXHR4MzM2MFx0
+						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
+						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
+						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
+						ZW5mYWN0b3IwCgpcZjBcZnMyNiBc
+						Y2YyIFRoaXMgc2VjdGlvbiBjcmVh
+						dGVzIHRoZSBPbW5pZm9jdXMgcHJv
+						amVjdCByZWNvcmQgZm9yIHRoZSBu
+						ZXcgcHJvamVjdC4gTm90ZSB0aGF0
+						IGFzIHdyaXR0ZW4gdGhlIEFwcGxl
+						U2NyaXB0IGFkZHMgdGhlIG5ldyBw
+						cm9qZWN0IHRvIGEgZm9sZGVyIGNh
+						bGxlZCBBY3RpdmUgUHJvamVjdHMu
+						IFRoaXMgY2FuIGJlIG1vZGlmaWVk
+						IHRvIGZpdCB0aGUgZW5kIHVzZXJc
+						JzkycyBuZWVkcy59AQAAACMAAAAB
+						AAAABwAAAFRYVC5ydGYQAAAAeDi1
+						YLYBAAAAAAAAAAAAAA==
+						</data>
+						<key>Title</key>
+						<string>Create Omnifocus Project</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Green</string>
+						<key>DisplayKind</key>
+						<string>None</string>
+						<key>HonourFailureSettings</key>
+						<true/>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteAppleScript</string>
+						<key>Path</key>
+						<string></string>
+						<key>Text</key>
+						<string>tell application "Keyboard Maestro Engine"	set newProjectName to getvariable "NewOFProjName"end telltell application "OmniFocus"		tell default document		set theFolder to folder named "Active Projects"				tell theFolder			make new project with properties {name:newProjectName}						set theProject to first flattened project where its name is newProjectName						set theProjectID to the id of the first flattened project where its name is newProjectName						set OFURL to "omnifocus:///task/" &amp; theProjectID		end tell	end tellend telltell application "Keyboard Maestro Engine"	setvariable "NewProjectOFURL" to OFURLend tell</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Magenta</string>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC7KAQAAKwAAAAEA
+						AADCAQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNTgw
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYTt9CntcY29sb3J0
+						Ymw7XHJlZDI1NVxncmVlbjI1NVxi
+						bHVlMjU1O1xyZWQwXGdyZWVuMFxi
+						bHVlMDt9CntcKlxleHBhbmRlZGNv
+						bG9ydGJsOztcY3NzcmdiXGMwXGMw
+						XGMwXGM4NDcwNlxjbmFtZSBjb250
+						cm9sVGV4dENvbG9yO30KXHBhcmRc
+						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
+						eDIyNDBcdHgyODAwXHR4MzM2MFx0
+						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
+						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
+						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
+						ZW5mYWN0b3IwCgpcZjBcZnMyNiBc
+						Y2YyIFRoaXMgc2VjdGlvbiBjcmVh
+						dGVzIHRoZSBwcm9qZWN0IGZvbGRl
+						ciBpbiB0aGUgYXBwcm9wcmlhdGUg
+						ZmlsZSBsb2NhdGlvbi59AQAAACMA
+						AAABAAAABwAAAFRYVC5ydGYQAAAA
+						FDO1YLYBAAAAAAAAAAAAAA==
+						</data>
+						<key>Title</key>
+						<string>Create Folder In Finder for New Project</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Magenta</string>
+						<key>Destination</key>
+						<string> [END USER ADD APPROPRIATE POSIX FILE PATH HERE]/%Variable%ProjName%</string>
+						<key>MacroActionType</key>
+						<string>NewFolder</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Orange</string>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC6nAgAAKwAAAAEA
+						AACfAgAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNTgw
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYTt9CntcY29sb3J0
+						Ymw7XHJlZDI1NVxncmVlbjI1NVxi
+						bHVlMjU1O1xyZWQwXGdyZWVuMFxi
+						bHVlMDt9CntcKlxleHBhbmRlZGNv
+						bG9ydGJsOztcY3NzcmdiXGMwXGMw
+						XGMwXGM4NDcwNlxjbmFtZSBjb250
+						cm9sVGV4dENvbG9yO30KXHBhcmRc
+						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
+						eDIyNDBcdHgyODAwXHR4MzM2MFx0
+						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
+						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
+						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
+						ZW5mYWN0b3IwCgpcZjBcZnMyNiBc
+						Y2YyIFRoaXMgc2VjdGlvbiBjcmVh
+						dGVzIGEgbmV3IGRyYWZ0IHdpdGgg
+						dGl0bGUgPSBuYW1lIG9mIHRoZSBw
+						cm9qZWN0IGFuZCBjb25lbnQgPSB0
+						aGUgbGlua3MgdG8gdGhlIE9tbmlm
+						b2N1cyBwcm9qZWN0IGFuZCB0aGUg
+						RmluZGVyIHByb2plY3QgZm9sZGVy
+						LiBUaGUgZHJhZnQgaXMgdGFnZ2Vk
+						IHRvIGFwcGVhciBpbiBhIHBhcnRp
+						Y3VsYXIgd29ya3NhcGNlLiBUaGUg
+						VVVJRCBmb3IgdGhlIERyYWZ0IGlz
+						IG9idGFpbmVkIGFuZCB1c2VkIHRv
+						IGNyZWF0ZSBhIGNsaWNrYWJsZSBs
+						aW5rIHRvIGFjY2VzcyB0aGUgZHJh
+						ZnQuIH0BAAAAIwAAAAEAAAAHAAAA
+						VFhULnJ0ZhAAAACNM7VgtgEAAAAA
+						AAAAAAAA
+						</data>
+						<key>Title</key>
+						<string>Create New Draft and Get Link</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Orange</string>
+						<key>MacroActionType</key>
+						<string>SetVariableToText</string>
+						<key>Text</key>
+						<string>%Variable%NewOFProjName%
+
+%Variable%NewProjectOFURL%
+
+%Variable%NewProjectFolderNameURL%
+
+</string>
+						<key>Variable</key>
+						<string>DraftContent</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Orange</string>
+						<key>DisplayKind</key>
+						<string>Variable</string>
+						<key>HonourFailureSettings</key>
+						<true/>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteAppleScript</string>
+						<key>Path</key>
+						<string></string>
+						<key>Text</key>
+						<string>tell application "Keyboard Maestro Engine"	set draftContent to getvariable "DraftContent"end telltell application "Drafts"	make new draft with properties {content:draftContent, flagged:false, tags:{"project"}}end tell</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+						<key>Variable</key>
+						<string>NewProjectDraftUUID</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Orange</string>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC5TAgAAKwAAAAEA
+						AABLAgAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNTgw
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYTt9CntcY29sb3J0
+						Ymw7XHJlZDI1NVxncmVlbjI1NVxi
+						bHVlMjU1O1xyZWQwXGdyZWVuMFxi
+						bHVlMDt9CntcKlxleHBhbmRlZGNv
+						bG9ydGJsOztcY3NzcmdiXGMwXGMw
+						XGMwXGM4NDcwNlxjbmFtZSBjb250
+						cm9sVGV4dENvbG9yO30KXHBhcmRc
+						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
+						eDIyNDBcdHgyODAwXHR4MzM2MFx0
+						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
+						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
+						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
+						ZW5mYWN0b3IwCgpcZjBcZnMyNiBc
+						Y2YyIFRoZSBmaW5hbCB0d28gYWN0
+						aW9ucyB0YWtlIHRoZSBEcmFmdCBV
+						VUlEIGFuZCB1c2UgaXQgdG8gY3Jl
+						YXRlIGEgY2xpY2thYmxlIGxpbmsu
+						IFRoZSBmaXJzdCByZW1vdmVzIFwn
+						OTNkcmFmdCBpZCBcJzkzIGZyb20g
+						dGhlIHZhcmlhYmxlIHJldHVybmVk
+						IGZyb20gdGhlIEFwcGxlU2NyaXB0
+						IGFib3ZlLiBUaGUgc2Vjb25kIGNy
+						ZWF0ZXMgdGhlIGNsaWNrYWJsZSBs
+						aW5rLn0BAAAAIwAAAAEAAAAHAAAA
+						VFhULnJ0ZhAAAADkM7VgtgEAAAAA
+						AAAAAAAA
+						</data>
+						<key>Title</key>
+						<string>Modify text to a clickable Drafts link</string>
+					</dict>
+					<dict>
+						<key>Action</key>
+						<string>IgnoreCaseString</string>
+						<key>ActionColor</key>
+						<string>Orange</string>
+						<key>MacroActionType</key>
+						<string>SearchReplace</string>
+						<key>Replace</key>
+						<string></string>
+						<key>Search</key>
+						<string>draft id </string>
+						<key>Source</key>
+						<string>Variable</string>
+						<key>Variable</key>
+						<string>NewProjectDraftUUID</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Orange</string>
+						<key>MacroActionType</key>
+						<string>SetVariableToText</string>
+						<key>Text</key>
+						<string>drafts5://open?uuid=%Variable%NewProjectDraftUUID%</string>
+						<key>Variable</key>
+						<string>NewProjectDraftURL</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Purple</string>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC4NAwAAKwAAAAEA
+						AAAFAwAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNTgw
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYTt9CntcY29sb3J0
+						Ymw7XHJlZDI1NVxncmVlbjI1NVxi
+						bHVlMjU1O1xyZWQwXGdyZWVuMFxi
+						bHVlMDt9CntcKlxleHBhbmRlZGNv
+						bG9ydGJsOztcY3NzcmdiXGMwXGMw
+						XGMwXGM4NDcwNlxjbmFtZSBjb250
+						cm9sVGV4dENvbG9yO30KXHBhcmRc
+						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
+						eDIyNDBcdHgyODAwXHR4MzM2MFx0
+						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
+						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
+						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
+						ZW5mYWN0b3IwCgpcZjBcZnMyNiBc
+						Y2YyIFRoZSBmaW5hbCBzZWN0aW9u
+						IHJldHVybnMgdG8gT21uaWZvY3Vz
+						IGFuZCBjcmVhdGVzIHRoZSBwcm9q
+						ZWN0IG5vdGUgKHdoaWNoIGNhblwn
+						OTJ0IGJlIHBvcHVsYXRlZCB1bnRp
+						bCB0aGUgRHJhZnQgaXMgY3JlYXRl
+						ZCBhbmQgdGhlIERyYWZ0IFVVSUQg
+						b2J0YWluZWQgYWJvdmUpLiBUaGUg
+						cHJvamVjdCBub3RlIGNvbnRhaW5z
+						IHRoZSBjbGlja2FibGUgbGlua3Mg
+						dG8gYm90aCB0aGUgRHJhZnQgbm90
+						ZSBmb3IgdGhlIHByb2plY3QgYW5k
+						IHRoZSBGaW5kZXIgZm9sZGVyIGZv
+						ciB0aGUgcHJvamVjdC4gVGhlIE9t
+						bmlmb2N1cyBQcm9qZWN0cyBwZXJz
+						cGVjdGl2ZSBpcyBsZWZ0IG9wZW4g
+						YW5kIHNob3dpbmcgdGhlIG5ld2x5
+						IGNyZWF0ZWQgcHJvamVjdCBhdCB0
+						aGUgZW5kIG9mIHRoZSBzZWN0aW9u
+						Ln0BAAAAIwAAAAEAAAAHAAAAVFhU
+						LnJ0ZhAAAADYNbVgtgEAAAAAAAAA
+						AAAA
+						</data>
+						<key>Title</key>
+						<string>Return to Omnifocus and Create Project Note</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Purple</string>
+						<key>MacroActionType</key>
+						<string>SetVariableToText</string>
+						<key>Text</key>
+						<string>%Variable%NewProjectDraftURL%
+
+%Variable%NewProjectFolderNameURL%
+</string>
+						<key>Variable</key>
+						<string>NewOFProjectNote</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Purple</string>
+						<key>IsDefaultApplication</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>OpenURL</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>URL</key>
+						<string>%Variable%NewProjectOFURL%</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Purple</string>
+						<key>DisplayKind</key>
+						<string>None</string>
+						<key>HonourFailureSettings</key>
+						<true/>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteAppleScript</string>
+						<key>Path</key>
+						<string></string>
+						<key>Text</key>
+						<string>tell application "Keyboard Maestro Engine"	set newOFProjectNote to getvariable "NewOFProjectNote"end telltell application "OmniFocus"
+	tell front document
+		tell content of document window 1 -- (first document window whose index is 1)
+			set theSelectedItems to value of every selected tree
+		end tell
+		repeat with anItem in my theSelectedItems
+				set note of anItem to NewOFProjectNote
+		end repeat
+	end tell
+end tell</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>644181862.85582101</real>
+				<key>IsActive</key>
+				<false/>
+				<key>ModificationDate</key>
+				<real>644182007.59506595</real>
+				<key>Name</key>
+				<string>New Project Creation Workflow -- SHARABLE</string>
+				<key>Triggers</key>
+				<array/>
+				<key>UID</key>
+				<string>33E0B7B1-852A-485E-8F8E-55B2CFFEAEFC</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Workflow Macros</string>
+		<key>ToggleMacroUID</key>
+		<string>81428BD0-935C-45BB-A151-C908EE7A4131</string>
+		<key>UID</key>
+		<string>0B2F4A6A-F3FE-4BF1-B333-1E936EDA3B31</string>
+	</dict>
+</array>
+</plist>
